@@ -1,0 +1,7 @@
+{
+  "name": "cap-setstyle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
